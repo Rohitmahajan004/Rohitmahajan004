@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitmahajan004
-- 👀 I’m interested in data science and web developement
-- 🌱 I’m currently learning BCA Final year
+- 👀 I’m interested in data science
+- 🌱 I am completed my bca degree
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me ...
 
